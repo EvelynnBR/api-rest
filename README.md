@@ -32,7 +32,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/EvelynnBR/api-rest
    cd api-rest
    ```
 
